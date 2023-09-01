@@ -1,6 +1,6 @@
 .banner {
     background: var(#006400);
-    color: var(--branco);
+    color: var(#556B2F);
     text-align: center;
     padding: 2.5em 2em;
 }
@@ -29,7 +29,7 @@
     font-size: 14px;
     font-weight: 400;
     text-align: center;
-    color: var(--branco);
+    color: var(#8A2BE2);
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;
 }
